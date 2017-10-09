@@ -1,0 +1,2 @@
+# m-nuxt
+nuxt test
